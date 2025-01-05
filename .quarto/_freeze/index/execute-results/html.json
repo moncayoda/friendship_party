@@ -1,7 +1,7 @@
 {
   "hash": "ff7334c9b5343ebabed9f8c3e365f906",
   "result": {
-    "markdown": "---\nformat: html\neditor: visual\n---\n\n\nWelcome to the **Family Party Planner**! Use this tool to generate ideas for your family friendship parties. Refresh the page for another random selection.\n\n\n::: {.cell}\n\n:::\n\n\n## Your Party Ideas 🎉\n\n### Snack Idea: 🍴\n\n**Chocolate Chip Cookies**\n\n### Uplifting Message: 💬\n\n**Kindness is contagious!**\n\n### Game to Play: 🎲\n\n**Trivia**\n",
+    "markdown": "---\nformat: html\neditor: visual\n---\n\n\nWelcome to the **Family Party Planner**! Use this tool to generate ideas for your family friendship parties. Refresh the page for another random selection.\n\n\n::: {.cell}\n\n:::\n\n\n## Your Party Ideas 🎉\n\n### Snack Idea: 🍴\n\n**Fruit Salad**\n\n### Uplifting Message: 💬\n\n**Have a great day!**\n\n### Game to Play: 🎲\n\n**Charades**\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
