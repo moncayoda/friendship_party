@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Friendship Party Planner"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+format:
+  html:
+    css: styles.css

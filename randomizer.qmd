@@ -1,0 +1,31 @@
+---
+title: "Randomizer"
+format: html
+editor: visual
+---
+
+```{r, echo = FALSE}
+# Define your lists
+snacks <- c("Popcorn", "Fruit Salad", "Chocolate Chip Cookies", "Pretzels", "Cupcakes")
+messages <- c("Keep smiling!", "Kindness is contagious!", "You're amazing!", "Have a great day!", "Stay positive!")
+games <- c("Charades", "Trivia", "Board Games", "Hide and Seek", "Pictionary")
+
+# Randomly select one item from each list
+random_snack <- sample(snacks, 1)
+random_message <- sample(messages, 1)
+random_game <- sample(games, 1)
+```
+
+## Your Party Ideas 🎉
+
+### Snack Idea: 🍴
+
+**`r random_snack`**
+
+### Uplifting Message: 💬
+
+**`r random_message`**
+
+### Game to Play: 🎲
+
+**`r random_game`**

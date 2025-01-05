@@ -1,0 +1,53 @@
+/* General body styles */
+body {
+  font-family: Arial, sans-serif; /* Retain original body font */
+  background-color: #f9f9f9; /* Light background for readability */
+  color: black; /* Black text for content */
+  margin: 0;
+  padding: 0;
+}
+
+/* Header (banner) styles */
+header {
+  background-color: #f0e60b; /* Bright yellow for the banner */
+  color: black; /* Black text for the banner */
+  text-align: center; /* Center the text */
+  padding: 20px 0; /* Add padding to the banner */
+  font-family: 'French Script MT', cursive; /* French Script MT font */
+  font-size: 2.5rem; /* Larger font size for banner text */
+}
+
+/* Navigation bar styles */
+.navbar {
+  background-color: #f0e60b; /* Match navbar color to banner */
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar a {
+  font-family: 'French Script MT', cursive; /* French Script MT font for navigation links */
+  text-decoration: none;
+  color: black; /* Black links */
+  margin: 0 15px; /* Add space between links */
+  font-size: 1.5rem; /* Larger font for navigation */
+}
+
+.navbar a:hover {
+  text-decoration: underline; /* Underline links on hover */
+}
+
+/* Main content styles */
+main {
+  padding: 20px;
+  font-size: 1rem; /* Retain the default size for main content */
+  text-align: left; /* Default left-aligned content */
+}
+
+/* Footer */
+footer {
+  background-color: #f0e60b; /* Match footer color to banner */
+  color: black;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 1rem;
+}
